@@ -3,11 +3,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
-/**
- * @author Aakansha Doshi
- *
- */
 public class EmailValidator {
 
 	public static void main(String[] args) throws IOException {
